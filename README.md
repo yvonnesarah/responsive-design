@@ -26,7 +26,7 @@ No installation is required to use the app. It is hosted online and can be acces
 
 ## 🔗 Live Demo & Repository
 Application can be viewed here: 
-* [Live]https://yvonnesarah.github.io/responsive-design/)
+* [Live](https://yvonnesarah.github.io/responsive-design/)
 
 * [Repository](https://github.com/yvonnesarah/responsive-design)
 
